@@ -19,7 +19,7 @@ Third, my Jupyter Notebook, should have an impact to business.
 
 On the third point, here's what I would like to elaborate a little more. I have a background in sociology and managing project, so I know a bit more storytelling and managing stakeholders expectations. Let's get going.
 
->First and foremost, it is important to identify key business initiatives (in your organization). This will determine areas of focus next few years, and where management attentions are. There is little value to focus on the peripheral (maybe).
+First and foremost, it is important to identify key business initiatives (in your organization). This will determine areas of focus next few years, and where management attentions are. There is little value to focus on the peripheral (maybe).
 
 Second, with a bit of focus, we turn to identifying key business drivers (that's metrics, what kind of data business needs and wants). This is where we start to do some sense making with data.
 
