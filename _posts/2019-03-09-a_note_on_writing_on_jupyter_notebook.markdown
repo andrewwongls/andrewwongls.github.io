@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Note on Writing on Jupyter Notebook"
-date:       2019-03-09 05:07:11 +0000
+date:       2019-03-09 00:07:12 -0500
 permalink:  a_note_on_writing_on_jupyter_notebook
 ---
 
