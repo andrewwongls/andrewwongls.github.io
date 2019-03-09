@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I want to a data scientist? (hint: I don't just yet)"
-date:       2019-03-09 03:44:26 +0000
+title:      "Why I want to a data scientist? "
+date:       2019-03-08 22:44:27 -0500
 permalink:  why_i_want_to_a_data_scientist_hint_i_dont_just_yet
 ---
 
