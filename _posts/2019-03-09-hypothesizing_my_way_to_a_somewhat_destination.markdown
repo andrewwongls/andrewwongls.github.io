@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hypothesizing My Way to a Somewhat Destination"
-date:       2019-03-09 05:42:39 +0000
+date:       2019-03-09 00:42:39 -0500
 permalink:  hypothesizing_my_way_to_a_somewhat_destination
 ---
 
