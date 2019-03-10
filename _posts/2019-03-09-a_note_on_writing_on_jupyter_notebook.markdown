@@ -9,7 +9,6 @@ permalink:  a_note_on_writing_on_jupyter_notebook
 In the course of 5 weeks, I have read countless Jupyter Notebook (Okay, since we are talking about data here, it is roughly about 150 Jupyter Notebook). There are some best practices that I have tried myself. Here's some tips for you my dear reader.
 
 **First, get to know Jupyter Notebook markup at the back of your hand.**
-**First, get to know Jupyter Notebook markup at the back of your hand.**
 <br>
 Here are some examples of the power of Juptyer Notebook
 
