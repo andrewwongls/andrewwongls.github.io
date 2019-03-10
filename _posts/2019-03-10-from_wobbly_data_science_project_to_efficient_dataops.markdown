@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From Wobbly Data Science Project to Efficient DataOps"
-date:       2019-03-10 22:12:13 +0000
+date:       2019-03-10 18:12:14 -0400
 permalink:  from_wobbly_data_science_project_to_efficient_dataops
 ---
 
@@ -10,9 +10,9 @@ permalink:  from_wobbly_data_science_project_to_efficient_dataops
 don’t drum up people to collect wood,
 and don’t assign them tasks and work,
 but rather teach them to long for the endless
-immensity of the sea.
+immensity of the sea.*
 
-Antoine de Saint-Exupéry*
+*Antoine de Saint-Exupéry*
 
 When I first started off writing my first few lines of code into Jupyter Notebook, I find joy and freedom of expression. Then, I carry on to code and code. And, write markups after markups. After two data science projects, I came to a realization. Hang on there - this is too short-term and narrow focus. What I mean by too short-term is that I was coding without thinking about future implications, whether there is technical debt, whether it is maintenanable, etc. What I mean by narrow focus was that I only focusing on my part and not the whole sum. 
 
