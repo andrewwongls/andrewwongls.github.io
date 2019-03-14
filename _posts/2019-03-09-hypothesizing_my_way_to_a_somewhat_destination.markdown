@@ -50,7 +50,7 @@ After all the effort, I hope to present business-centric insights on Northwind T
 
 I have started to review the Northwind Traders database schema, and start to draw out my own interpretation. By drawing and seeing the linkages between different tables, I feel more confident and closer to the data. 
 
-(Insert my diagram here)
+
 
 
 
@@ -85,14 +85,19 @@ The following paragraphs taken from the book (as a reminder to myself, and good 
 
 Any hypothesis must allow for different possible conclusions or it is pointless. For an exploratory goal, the different possible conclusions may be only vaguely specified. In contrast, much of statistical theory focuses on a specific, so-called “null hypothesis” (e.g., reaction time is not affected by background noise) which often represents “nothing interesting going on” usually in terms of some effect being exactly equal to zero, as opposed to a more general, “alternative hypothesis” (e.g., reaction time changes as the level of background noise changes), which encompasses any amount of change other than zero.
 
-Statistical analysis of experiments starts with graphical and non-graphical exploratory data analysis (EDA). EDA is useful for
+Statistical analysis of experiments starts with graphical and non-graphical exploratory data analysis (EDA). EDA is useful for:
 
-Detection of mistakes
-Checking of assumptions
-Determining relationships among the explanatory variables
-Assessing the direction and rough size of relationships between explanatory and outcome variables, and
-Preliminary selection of appropriate models of the relationship between an outcome variable and one or more explanatory variables.
-EDA always precedes formal (confirmatory) data analysis.
+1. Detection of mistakes
+
+2. Checking of assumptions
+
+3. Determining relationships among the explanatory variables
+ 
+5. Assessing the direction and rough size of relationships between explanatory and outcome variables, and
+ 
+6. Preliminary selection of appropriate models of the relationship between an outcome variable and one or more explanatory variables.
+ 
+7. EDA always precedes formal (confirmatory) data analysis.
 
 
 
