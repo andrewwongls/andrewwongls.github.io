@@ -45,11 +45,14 @@ After a clear understanding of what data I can use, and relationships between ta
 After all the effort, I hope to present business-centric insights on Northwind Traders. This is the FIFTH and LAST PHASE of the process.
 
 
+
 **SECOND**
 
 I have started to review the Northwind Traders database schema, and start to draw out my own interpretation. By drawing and seeing the linkages between different tables, I feel more confident and closer to the data. 
 
 (Insert my diagram here)
+
+
 
 **THIRD**
 
@@ -68,6 +71,7 @@ SUPPLIERS OF NORTHWIND
 
 Who are the suppliers - their business relationship profile with Northwind?
 What are the relationship between Northwind orders, products, and product categories, and their suppliers?
+
 
 
 **FOURTH**
@@ -89,6 +93,8 @@ Determining relationships among the explanatory variables
 Assessing the direction and rough size of relationships between explanatory and outcome variables, and
 Preliminary selection of appropriate models of the relationship between an outcome variable and one or more explanatory variables.
 EDA always precedes formal (confirmatory) data analysis.
+
+
 
 **FIFTH**
 
@@ -135,6 +141,8 @@ d=0.5 represents a 'medium' effect size
 d=0.8 a 'large' effect size.
 
 This means that if two groups' means don't differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically signficant.
+
+
 
 **The Hypothesis 1 Effect Size (Cohen's d) below indicates a slightly than 0.2 d-value. Therefore, we can conclude with confidence (not high confidence) that the effect size is slightly more than a 'small' effect size.**
 
